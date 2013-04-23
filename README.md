@@ -1,7 +1,7 @@
 MissVenom
 =========
 
-Small standalone SSL proxy in .NET based on my upcoming MissProxy.
+Small standalone SSL proxy for WhatsApp in .NET based on my upcoming MissProxy.
 
 ![MissVenom](https://dl.dropboxusercontent.com/u/68235039/proxy.png)
 
