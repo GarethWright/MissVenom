@@ -75,10 +75,5 @@ namespace WindowsFormsApplication1
             this.AddListItem("RESPONSE: " + data);
             this.AddListItem(" ");
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
